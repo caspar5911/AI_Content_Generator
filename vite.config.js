@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/AI_CONTENT_GENERATOR/', // Update this with your repository name
+  base: '/AI_Content_Generator/', // Update this with your repository name
   plugins: [react()],
 })
